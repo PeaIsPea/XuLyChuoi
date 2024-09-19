@@ -1,0 +1,10 @@
+D:\HOC TAP\C#v2\Winform\XuLyChuoi\XuLyChuoi\XuLyChuoi\bin\Debug\XuLyChuoi.exe.config
+D:\HOC TAP\C#v2\Winform\XuLyChuoi\XuLyChuoi\XuLyChuoi\bin\Debug\XuLyChuoi.exe
+D:\HOC TAP\C#v2\Winform\XuLyChuoi\XuLyChuoi\XuLyChuoi\bin\Debug\XuLyChuoi.pdb
+D:\HOC TAP\C#v2\Winform\XuLyChuoi\XuLyChuoi\XuLyChuoi\obj\Debug\XuLyChuoi.csproj.AssemblyReference.cache
+D:\HOC TAP\C#v2\Winform\XuLyChuoi\XuLyChuoi\XuLyChuoi\obj\Debug\XuLyChuoi.Form1.resources
+D:\HOC TAP\C#v2\Winform\XuLyChuoi\XuLyChuoi\XuLyChuoi\obj\Debug\XuLyChuoi.Properties.Resources.resources
+D:\HOC TAP\C#v2\Winform\XuLyChuoi\XuLyChuoi\XuLyChuoi\obj\Debug\XuLyChuoi.csproj.GenerateResource.cache
+D:\HOC TAP\C#v2\Winform\XuLyChuoi\XuLyChuoi\XuLyChuoi\obj\Debug\XuLyChuoi.csproj.CoreCompileInputs.cache
+D:\HOC TAP\C#v2\Winform\XuLyChuoi\XuLyChuoi\XuLyChuoi\obj\Debug\XuLyChuoi.exe
+D:\HOC TAP\C#v2\Winform\XuLyChuoi\XuLyChuoi\XuLyChuoi\obj\Debug\XuLyChuoi.pdb
